@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 st.set_page_config(layout="wide", page_title="Foster Rx: Interactive System Architecture")
 
 # --- Show logo at the top ---
-st.image("C:/Projects/FRX Marketing/FullLogo.jpg", use_container_width=False, width=400)
+st.image("FullLogo.jpg", use_container_width=False, width=400)
 
 modules = [
     "Data Ingestion",
